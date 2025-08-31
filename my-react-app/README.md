@@ -1,4 +1,4 @@
-# My React App
+# Money Maaze
 
 This project is a React application built with TypeScript and styled using Tailwind CSS. It serves as a template for creating modern web applications with a focus on component-based architecture and utility-first styling.
 
